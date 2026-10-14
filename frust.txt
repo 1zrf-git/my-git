@@ -1,3 +1,4 @@
 hello git
-he分厘卡啊
-发士大夫
+
+show commit
+show push
